@@ -1,0 +1,95 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.3" pages="3">
+  <diagram name="Modelo Conceitual" id="dno8IKw_7OWP5Aaa4nih">
+    <mxGraphModel dx="714" dy="423" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rZbsSwuXMM9Pe_eUIxAz-1" value="Medico" style="whiteSpace=wrap;html=1;align=center;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="36" y="96" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rZbsSwuXMM9Pe_eUIxAz-2" value="Paciente" style="whiteSpace=wrap;html=1;align=center;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="637" y="96" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rZbsSwuXMM9Pe_eUIxAz-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="rZbsSwuXMM9Pe_eUIxAz-3" target="rZbsSwuXMM9Pe_eUIxAz-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rZbsSwuXMM9Pe_eUIxAz-3" value="Localidade" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="331" y="256" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rZbsSwuXMM9Pe_eUIxAz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="rZbsSwuXMM9Pe_eUIxAz-4" target="rZbsSwuXMM9Pe_eUIxAz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rZbsSwuXMM9Pe_eUIxAz-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rZbsSwuXMM9Pe_eUIxAz-4" target="rZbsSwuXMM9Pe_eUIxAz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rZbsSwuXMM9Pe_eUIxAz-4" value="Consulta" style="whiteSpace=wrap;html=1;align=center;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="96" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rZbsSwuXMM9Pe_eUIxAz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="rZbsSwuXMM9Pe_eUIxAz-6" target="rZbsSwuXMM9Pe_eUIxAz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rZbsSwuXMM9Pe_eUIxAz-6" value="possui" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="176" y="86" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rZbsSwuXMM9Pe_eUIxAz-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="rZbsSwuXMM9Pe_eUIxAz-7" target="rZbsSwuXMM9Pe_eUIxAz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rZbsSwuXMM9Pe_eUIxAz-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="rZbsSwuXMM9Pe_eUIxAz-7" target="rZbsSwuXMM9Pe_eUIxAz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rZbsSwuXMM9Pe_eUIxAz-7" value="possui" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="477" y="86" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rZbsSwuXMM9Pe_eUIxAz-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="rZbsSwuXMM9Pe_eUIxAz-17" target="rZbsSwuXMM9Pe_eUIxAz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rZbsSwuXMM9Pe_eUIxAz-17" value="possui" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="168" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rZbsSwuXMM9Pe_eUIxAz-20" value="(1:1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="136" y="86" width="48" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="rZbsSwuXMM9Pe_eUIxAz-21" value="(0:N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="287" y="86" width="48" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="rZbsSwuXMM9Pe_eUIxAz-22" value="(1:1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="587" y="86" width="48" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="rZbsSwuXMM9Pe_eUIxAz-23" value="(0:N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="429" y="86" width="48" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="rZbsSwuXMM9Pe_eUIxAz-24" value="Consulta precisa ter&amp;nbsp;&lt;div&gt;1 medico e&lt;div&gt;pode ter no&amp;nbsp;&lt;/div&gt;&lt;div&gt;máximo 1 médico&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="22" y="152" width="128" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rZbsSwuXMM9Pe_eUIxAz-26" value="Medico não precisa ter&amp;nbsp;&lt;div&gt;consulta e pode&amp;nbsp;&lt;/div&gt;&lt;div&gt;ter infinitas consultas&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="248" y="8" width="144" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="rZbsSwuXMM9Pe_eUIxAz-27" value="Paciente precisa ter&amp;nbsp;&lt;div&gt;1 medico e&lt;div&gt;pode ter no&amp;nbsp;&lt;/div&gt;&lt;div&gt;máximo 1 médico&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="158" width="128" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rZbsSwuXMM9Pe_eUIxAz-28" value="(0:N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="381" y="136" width="48" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="rZbsSwuXMM9Pe_eUIxAz-29" value="(1:1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="383" y="228" width="48" height="32" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_huZORcpDx7SbmaHB3m-" name="Modelo Logico">
+    <mxGraphModel dx="1036" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PATn0d_vGTTV_aBI4WEL" name="Modelo Fisico">
+    <mxGraphModel dx="1036" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
