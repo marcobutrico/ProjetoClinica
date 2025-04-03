@@ -1,0 +1,9 @@
+Clinica Médica - Agendar Consultas
+
+Medicos - Nome, Especialidade, CRM, HorarioTrabalho
+
+Pacientes - Nome, CPF, Convenio, Endereco, DataNasc, Sexo
+
+Consultas - Horário, Data, Medico, Paciente
+
+Localidades - Endereco, Bairro, Cidade, Estado, CEP
